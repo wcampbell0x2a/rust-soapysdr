@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #include <SoapySDR/Device.h>
 #include <SoapySDR/Logger.h>
 #include <SoapySDR/Formats.h>
